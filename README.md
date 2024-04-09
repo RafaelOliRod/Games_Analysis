@@ -38,7 +38,7 @@ Os gêneros de maior sucesso de vendas tendem a estar associados à classificaç
 
 Em resumo, a análise dos dados mostra a complexidade e dinâmica do mercado de jogos eletrônicos, destacando a importância da adaptação às mudanças tecnológicas, a diversificação das opções para os jogadores e a influência de múltiplos fatores nas vendas de jogos. Esses dados fornecem uma ideia para entender as tendências e tomar decisões estratégicas no setor de jogos eletrônicos.
 
-**:family_mmgb: Sobre Perfil de Usuários por região:**
+**:smiley: Sobre Perfil de Usuários por região:**
 
 Com base nas análises dos mercados de videogames na América do Norte, Europa e Japão, algumas conclusões claras emergem, evidenciando as dinâmicas regionais e as estratégias das empresas no setor.
 
