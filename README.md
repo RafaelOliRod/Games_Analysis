@@ -1,4 +1,5 @@
 # Games_Analysis
+
 Você trabalha para a loja online Ice, que vende videogames no mundo todo. As avaliações de usuários e especialistas, gêneros, plataformas (por exemplo, Xbox ou PlayStation) e dados históricos sobre vendas de jogos estão disponíveis em fontes abertas. Você precisa identificar padrões que determinam se um jogo tem sucesso ou não. Isso vai permitir que você identifique possíveis sucessos e planeje campanhas publicitárias.
 
 Os dados disponibilizados remontam a 2016. Vamos imaginar que estamos em dezembro de 2016 e você está planejando uma campanha para 2017.
@@ -34,3 +35,31 @@ A análise também destaca a dominação das três grandes fabricantes de consol
 Em relação às vendas de jogos, observamos uma ampla dispersão nos dados, indicando uma variedade considerável nos valores das vendas. As correlações entre as avaliações dos profissionais e dos usuários com as vendas totais sugerem uma relação moderada a fraca, indicando que outros fatores além das avaliações influenciam as vendas de jogos.
 
 Os gêneros de maior sucesso de vendas tendem a estar associados à classificação etária 'M' ('maduro'), enquanto os gêneros de menor sucesso não apresentam uma relação clara com faixas etárias específicas.
+
+Em resumo, a análise dos dados mostra a complexidade e dinâmica do mercado de jogos eletrônicos, destacando a importância da adaptação às mudanças tecnológicas, a diversificação das opções para os jogadores e a influência de múltiplos fatores nas vendas de jogos. Esses dados fornecem uma ideia para entender as tendências e tomar decisões estratégicas no setor de jogos eletrônicos.
+
+**Sobre Perfil de Usuários por região:**
+
+Com base nas análises dos mercados de videogames na América do Norte, Europa e Japão, algumas conclusões claras emergem, evidenciando as dinâmicas regionais e as estratégias das empresas no setor.
+
+Primeiramente, a liderança da Microsoft na América do Norte, com sua plataforma Xbox 360, demonstra sua forte presença nesse mercado, apesar da competição acirrada com outras fabricantes. Esse cenário indica um ambiente altamente competitivo, onde a Microsoft mantém uma fatia significativa das vendas.
+
+No mercado europeu, observamos um equilíbrio entre as plataformas, com uma competição intensa entre as empresas. A Microsoft rivaliza de perto com as fabricantes japonesas, que continuam a dominar a região em termos de participação nas vendas.
+
+Por outro lado, o mercado japonês é fortemente dominado pelas empresas de origem japonesa, com uma preferência local evidente por produtos domésticos. A presença mínima da Microsoft nesse mercado destaca essa preferência, demonstrando a importância da compreensão das especificidades culturais e do comportamento do consumidor em cada região.
+
+Além disso, as análises revelam diferenças significativas nas preferências dos jogadores entre as regiões. Enquanto os gêneros de ação e esportes são populares na América do Norte e Europa, o Japão tem uma preferência mais forte por jogos de RPG. Essas divergências refletem uma variedade de fatores, incluindo cultura, tradições de jogos e preferências do público-alvo.
+
+A prevalência da classificação "E" (para todos) em todas as regiões sugere uma preferência generalizada por jogos adequados para todas as idades. As classificações "T" (adolescentes) e "M" (mature) também são populares, embora sua importância varie dependendo da região. Por outro lado, as classificações menos comuns, como "EC" (early childhood) e "AO" (adults only), têm uma presença muito limitada nas vendas globais de jogos.
+
+Em resumo, essas análises destacam a importância da compreensão das preferências regionais e da concorrência no setor de videogames. Elas demonstram como diferentes empresas conseguem competir e se posicionar de forma estratégica em mercados distintos, enfatizando a necessidade de adaptação às nuances culturais e preferências dos consumidores em cada região.
+
+**Testando Hipóteses:**
+
+Com base nos resultados dos testes de hipótese realizados para as plataformas 'xb' e 'pc', bem como para os gêneros 'action' e 'sports', podemos chegar a algumas conclusões importantes.
+
+Primeiramente, para as plataformas 'xb' (Xbox) e 'pc' (computador pessoal), encontramos evidências estatísticas significativas que nos levam a rejeitar a hipótese nula. Isso sugere que as médias das classificações dos usuários para essas duas plataformas são diferentes. Essa diferença estatisticamente significativa pode indicar divergências na satisfação dos usuários ou na popularidade entre as plataformas, destacando a importância de considerar as preferências e experiências dos jogadores ao escolherem entre essas opções de jogo.
+
+Por outro lado, para os gêneros 'action' e 'sports', não encontramos evidências suficientes para rejeitar a hipótese nula. Isso significa que não podemos concluir que há uma diferença estatisticamente significativa nas classificações médias dos usuários entre esses dois gêneros. Essa falta de diferença estatisticamente significativa sugere que, com base nos dados analisados, os usuários não têm uma preferência clara entre os gêneros 'action' e 'sports' em termos de classificações médias.
+
+Em resumo, enquanto as diferenças nas classificações médias dos usuários entre as plataformas 'xb' e 'pc' são estatisticamente significativas, não podemos fazer a mesma afirmação para os gêneros 'action' e 'sports'. Essas conclusões destacam a importância de compreender as nuances das preferências dos usuários e fornecem insights valiosos sobre as dinâmicas do mercado de videogames, auxiliando na tomada de decisões estratégicas relacionadas a plataformas e gêneros de jogos.
