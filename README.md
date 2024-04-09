@@ -8,7 +8,7 @@ Os dados disponibilizados remontam a 2016. Vamos imaginar que estamos em dezembr
 
 O conjunto de dados contém uma coluna de "rating" (classificação) que armazena a classificação ESRB de cada jogo. O Entertainment Software Rating Board avalia o conteúdo de um jogo e atribui uma classificação etária, como Teen (Adolescente) ou Mature (Adulto).
 
-**Sobre os Dados:**
+**:bar_chart: Sobre os Dados:**
 
 Durante a preparação dos dados, uma série de etapas foram realizadas para garantir que os dados estivessem limpos, organizados e prontos para análise.
 
@@ -22,7 +22,7 @@ Por fim, o rating ESRB (Entertainment Software Rating Board) foi padronizado par
 Essas ações visam garantir que os dados estejam organizados e livres de inconsistências, possibilitando uma análise mais precisa.
 
 
-**Analisando os Dados:**
+**:mag_right: Analisando os Dados:**
 
 A análise dos dados revela uma evolução dinâmica no cenário das plataformas de jogos eletrônicos ao longo das décadas, com mudanças significativas ocorrendo a partir da década de 1990. Plataformas que dominaram o mercado na década de 1980 foram substituídas por tecnologias mais avançadas, refletindo um ciclo de vida típico para essas plataformas.
 
@@ -38,7 +38,7 @@ Os gêneros de maior sucesso de vendas tendem a estar associados à classificaç
 
 Em resumo, a análise dos dados mostra a complexidade e dinâmica do mercado de jogos eletrônicos, destacando a importância da adaptação às mudanças tecnológicas, a diversificação das opções para os jogadores e a influência de múltiplos fatores nas vendas de jogos. Esses dados fornecem uma ideia para entender as tendências e tomar decisões estratégicas no setor de jogos eletrônicos.
 
-**Sobre Perfil de Usuários por região:**
+**:family_mmgb: Sobre Perfil de Usuários por região:**
 
 Com base nas análises dos mercados de videogames na América do Norte, Europa e Japão, algumas conclusões claras emergem, evidenciando as dinâmicas regionais e as estratégias das empresas no setor.
 
@@ -54,7 +54,7 @@ A prevalência da classificação "E" (para todos) em todas as regiões sugere u
 
 Em resumo, essas análises destacam a importância da compreensão das preferências regionais e da concorrência no setor de videogames. Elas demonstram como diferentes empresas conseguem competir e se posicionar de forma estratégica em mercados distintos, enfatizando a necessidade de adaptação às nuances culturais e preferências dos consumidores em cada região.
 
-**Testando Hipóteses:**
+**:white_check_mark: Testando Hipóteses:**
 
 Com base nos resultados dos testes de hipótese realizados para as plataformas 'xb' e 'pc', bem como para os gêneros 'action' e 'sports', podemos chegar a algumas conclusões importantes.
 
